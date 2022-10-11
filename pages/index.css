@@ -6,6 +6,7 @@
 @import url(../blocks/page/__content/page__content.css);
 @import url(../blocks/page/__lead/page__lead.css);
 @import url(../blocks/page/__intro/page__intro.css);
+@import url(../blocks/page/__photo-grid/page__photo-grid.css);
 @import url(../blocks/page/__places/page__places.css);
 
 @import url(../blocks/header/header.css);
@@ -27,6 +28,9 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
+
+@import url(../blocks/photo-grid/photo-gris.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
