@@ -1,18 +1,15 @@
 .intro {
   max-width: 690px;
-  outline: 1px solid indianred;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .intro {
     max-width: 720px;
-    outline: 1px solid indianred;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .intro {
     max-width: 288px;
-    outline: 1px solid indianred;
   }
 }
